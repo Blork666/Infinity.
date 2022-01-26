@@ -11,34 +11,34 @@
 </p>
 &nbsp;
 <p align="center">
-    <a href="https://github.com/EthanMcDonagh/">
+    <a href="https://github.com/Blork666/">
         <img src="./assets/icons/other/github-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://discord.com/users/615158274823684146">
+    <a href="https://discord.com/users/724634146114240613">
         <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://twitter.com/realravenx/">
+    <a href="https://twitter.com/GamerGu52259038/">
         <img src="./assets/icons/other/twitter-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://www.youtube.com/channel/UCBMRlppVfrEzAd0z_WhO7Cw">
+    <a href="https://www.youtube.com/channel/UC0sc2cz04UKV4s002SIqJZQ">
         <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
     </a>
     
 </p>
 <hr/>
 <p align="center">
-    <a href="https://github.com/EthanMcDonagh/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=EthanMcDonagh&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+    <a href="https://github.com/Blork666/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Blork666&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)" />
   </a> 
-  <a href="https://github.com/EthanMcDonagh/">
-        <img src="https://github-readme-stats.vercel.app/api?username=EthanMcDonagh&show_icons=true&theme=gruvbox" />
+  <a href="https://github.com/Blork666/">
+        <img src="https://github-readme-stats.vercel.app/api?username=Blork666" />
   </a> 
 <br>
-<a href="https://github.com/EthanMcDonagh/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanMcDonagh&theme=gruvbox&langs_count=8&layout=compact" />
+<a href="https://github.com/Blork666/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blork666&theme=gruvbox&langs_count=8&layout=compact" />
   </a> 
 <br>
 </p>
