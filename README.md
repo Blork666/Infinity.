@@ -31,7 +31,7 @@
 <hr/>
 <p align="center">
     <a href="https://github.com/Blork666/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Blork666&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Blork666&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
   </a> 
   <a href="https://github.com/Blork666/">
         <img src="https://github-readme-stats.vercel.app/api?username=Blork666" />
