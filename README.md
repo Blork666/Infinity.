@@ -38,7 +38,7 @@
   </a> 
 <br>
 <a href="https://github.com/Blork666/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blork666&theme=gruvbox&langs_count=8&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
   </a> 
 <br>
 </p>
